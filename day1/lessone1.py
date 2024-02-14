@@ -48,7 +48,7 @@ left(33)
 pendown()
 
 
-color("red")
+color("brown")
 begin_fill()
 right(95)
 forward(40)
@@ -66,7 +66,7 @@ goto(60, 130)
 left(90)
 pendown()
 
-color("red")
+color("brown")
 begin_fill()
 right(95)
 forward(40)
